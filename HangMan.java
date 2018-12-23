@@ -1,4 +1,5 @@
-//Created by Elena Rybalkina
+//Created by Elena Rybalkina and Alexey Pismeskiy
+// Super cool game
 package hangman;
 import java.util.Random;
 import java.util.Scanner;
